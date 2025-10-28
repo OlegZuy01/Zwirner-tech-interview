@@ -1,1 +1,1 @@
-# Zwirner-tech-interview
+# tech-interview-full-stack-js
